@@ -8,7 +8,7 @@ public class Goods {
 //		 return"棒棒糖
 		 System.out.println("棒棒糖");
 	 }//成员方法（函数）
-	 int getNum(){
+	 public int getNum(){
 		 return 10; 
 	 }
 	 //打印输出商品名字和数量
